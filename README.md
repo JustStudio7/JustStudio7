@@ -4,7 +4,7 @@
 ----------
 
 ## 🌐 Website
-- [juststudio7.github.io](https://juststudio.is-a.dev)
+- [juststudio.is-a.dev](https://juststudio.is-a.dev)
 - [API](https://juststudio.is-a.dev/api)
 
 ## 🔗 Links
