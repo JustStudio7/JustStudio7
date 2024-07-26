@@ -4,8 +4,8 @@
 ----------
 
 ## 🌐 Website
-- [juststudio7.github.io](https://juststudio7.github.io)
-- [API](https://juststudio7.github.io/api)
+- [juststudio7.github.io](https://juststudio.is-a.dev)
+- [API](https://juststudio.is-a.dev/api)
 
 ## 🔗 Links
 - [Roblox Group](https://www.roblox.com/groups/11641563/JustStudio#!/about)
